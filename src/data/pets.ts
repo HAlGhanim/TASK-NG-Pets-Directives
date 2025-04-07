@@ -64,6 +64,17 @@ const pets: Pet[] = [
     image2: 'https://i.ibb.co/tm8R0jm/918f1b2c568be3d77a7c29d682be874c.gif',
     adopted: false,
   },
+  {
+    id: 7,
+    name: 'cheeto',
+    description: 'Fastest on land',
+    type: 'Cheetah',
+    image:
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJd2UhOYkUrzvFaWrXoX6mtFLQb8Ls9YYnpA&s',
+    image2:
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJd2UhOYkUrzvFaWrXoX6mtFLQb8Ls9YYnpA&s',
+    adopted: false,
+  },
 ];
 
 export default pets;
